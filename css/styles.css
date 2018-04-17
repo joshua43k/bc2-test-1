@@ -1,0 +1,43 @@
+.pad-40 {
+  padding: 40px
+}
+
+.zero div{
+  border: solid 1px #000;
+}
+
+.zero {
+  background-color: yellow;
+}
+
+.one {
+  height: 175px;
+  background-color: blue;
+}
+
+.two {
+  height: 75px;
+  background-color: green;
+}
+
+.three, .four {
+  height: 300px;
+}
+
+.three {
+  background-color: red;
+}
+
+.four {
+  background-color: lightblue;
+}
+
+.five {
+  height: 200px;
+  background-color: pink;
+}
+
+.six {
+  height: 65px;
+  background-color: black;
+}
