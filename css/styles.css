@@ -1,3 +1,4 @@
+
 .pad-40 {
   padding: 40px
 }
@@ -7,17 +8,17 @@
 }
 
 .zero {
-  background-color: yellow;
+  background-color: #FFFF00;
 }
 
 .one {
   height: 175px;
-  background-color: blue;
+  background-color: #0000FF;
 }
 
 .two {
   height: 75px;
-  background-color: green;
+  background-color: #008000;
 }
 
 .three, .four {
@@ -25,19 +26,20 @@
 }
 
 .three {
-  background-color: red;
+  background-color: #FF0000;
 }
 
 .four {
-  background-color: lightblue;
+  background-color: #00FFFF;
 }
 
 .five {
   height: 200px;
-  background-color: pink;
+  background-color: #FFA500;
 }
 
 .six {
   height: 65px;
-  background-color: black;
+  background-color: #000000;
+  color: #fff;
 }
